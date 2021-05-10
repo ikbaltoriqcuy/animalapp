@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Animal App</string>
+    <string name="lbl_email_hint">Email</string>
+    <string name="lbl_password_hint">Password</string>
+    <string name="lbl_enter_btn">Masuk</string>
+    <string name="lbl_male">Male</string>
+    <string name="lbl_phonenumber">+62 8238293839</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_account">Akun</string>
+</resources>
